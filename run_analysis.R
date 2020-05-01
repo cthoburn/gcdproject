@@ -120,5 +120,5 @@ setwd(startDir)
 data.table::fwrite(x = data_merge, 
                    file = "Data_subject_activity.txt",
                    quote = FALSE)
-
+ 
 

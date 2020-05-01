@@ -26,4 +26,4 @@ Executing this script download the data from a fixed source for the assignment, 
 
 Intermediate files
 *********************************************************************
-This script will create a ./data directory to use for intermediate files if it does not already exist.  These files will remain after the script is executed. 
+This script will create a ./data directory to use for intermediate files if it does not already exist.  These files will remain after the script is executed.  
